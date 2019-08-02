@@ -1,0 +1,79 @@
+.navbar {
+    background: 	white;
+  }
+#lat {
+    padding: 10px;
+    background: 		#008080;
+    font-weight: bold;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    color: white;
+  }
+.nav-link {
+    color:black;
+    text-align: right;
+  }
+.nav-link:hover {
+    background: lightgrey;
+    color: black
+    }
+  
+body {
+    background: 		lightgrey;
+  }
+
+h1 {
+    color: #008080;
+    text-align: center;
+}
+
+h2 {
+    color: #008080;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+table {
+    background: white;
+}
+
+.col-sm-6{
+    background: white;
+}
+.col-sm-12{
+    background:white;
+}
+
+.col-sm-7{
+    background:white;
+}
+.tablepage{
+    background:white;
+    text-align: center;
+}
+.col-sm-4{
+    background:white;
+}
+#center{
+width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
+#currentplot{
+    border:5px solid #008080;
+}
+@media (max-width: 480px) {
+    #lat {
+        padding: 5px;
+        background: 		#008080;
+        font-weight: bold;
+        font-size: 10px;
+        width: 100px;
+        text-align: center;
+        color: white;
+      }
+  }
