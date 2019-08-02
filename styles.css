@@ -66,6 +66,10 @@ width:70%;
 #currentplot{
     border:5px solid #008080;
 }
+
+#currentplotl{
+    height:300px;
+}
 @media (max-width: 480px) {
     #lat {
         padding: 5px;
